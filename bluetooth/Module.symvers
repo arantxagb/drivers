@@ -1,0 +1,7 @@
+0xaf78f260	btrtl_free	/home/arantxa/drivers/bluetooth/btrtl	EXPORT_SYMBOL_GPL	
+0xb69b5834	btrtl_initialize	/home/arantxa/drivers/bluetooth/btrtl	EXPORT_SYMBOL_GPL	
+0x4a8c5767	btrtl_download_firmware	/home/arantxa/drivers/bluetooth/btrtl	EXPORT_SYMBOL_GPL	
+0x9cb0a8c5	btrtl_set_quirks	/home/arantxa/drivers/bluetooth/btrtl	EXPORT_SYMBOL_GPL	
+0xfe61c8f7	btrtl_setup_realtek	/home/arantxa/drivers/bluetooth/btrtl	EXPORT_SYMBOL_GPL	
+0xbeab0d3b	btrtl_shutdown_realtek	/home/arantxa/drivers/bluetooth/btrtl	EXPORT_SYMBOL_GPL	
+0xb1ad34be	btrtl_get_uart_settings	/home/arantxa/drivers/bluetooth/btrtl	EXPORT_SYMBOL_GPL	

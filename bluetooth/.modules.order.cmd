@@ -1,0 +1,1 @@
+cmd_/home/arantxa/drivers/bluetooth/modules.order := {   echo /home/arantxa/drivers/bluetooth/btusb.ko;   echo /home/arantxa/drivers/bluetooth/btrtl.ko; :; } | awk '!x[$$0]++' - > /home/arantxa/drivers/bluetooth/modules.order

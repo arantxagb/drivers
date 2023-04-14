@@ -1,0 +1,1 @@
+cmd_/home/arantxa/drivers/bluetooth/Module.symvers := sed 's/ko$$/o/' /home/arantxa/drivers/bluetooth/modules.order | scripts/mod/modpost -m -a  -o /home/arantxa/drivers/bluetooth/Module.symvers -e -i Module.symvers   -T -
